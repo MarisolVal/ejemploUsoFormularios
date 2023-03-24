@@ -1,2 +1,2 @@
 # DesWeb
-Ejemplos del taller de desarrollo web
+Ejemplos sobre el uso de etiquetas semánticas
